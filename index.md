@@ -12,7 +12,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Excel Explainer: VLOOKUP()
 ## Header 2
+BY: Eythan Jenkins
+## Header 2
+What is VLOOKUP()
+## Header 2
+Why to use VLOOKUP()
+## Heaader 2
+How to Use VLOOKUP()
+## Header 2
+Data Used
 ### Header 3
 
 - Bulleted
