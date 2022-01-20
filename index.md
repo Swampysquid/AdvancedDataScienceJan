@@ -1,6 +1,6 @@
 
 # **Excel Explainer: VLOOKUP()**
-By: Eythan Jenkins
+**By: Eythan Jenkins**
 
 ## What is VLOOKUP()
 
