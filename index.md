@@ -45,7 +45,7 @@ The third part of the VLOOKUP function refers to which column of the range shoul
 
 ![Image](VLOOKUPFunction5.JPG)
 
-The final part of the VLOOKUP function is a boolean value: 'False' determines whether the key needs to perfectly match, and 'True' permits there to be an 'approximate' match. By 'approximate,' VLOOKUP "returns the next largest value that is less than your specific lookup value." (extendoffice.com) Because of how it is defined, it requires the dataset to either be sorted alphabetically or numerically to correctly function. In the next section, the step-by-step example, you will be able to see why it can be effective to use an approximate match over an exact match.
+The final part of the VLOOKUP function is a boolean value: 'False' determines whether the key needs to perfectly match, and 'True' permits there to be an 'approximate' match. By 'approximate,' VLOOKUP "returns the next largest value that is less than your specific lookup value." (extendoffice.com) Because of how it is defined, it requires the dataset to either be sorted alphabetically or numerically to correctly function. Because the value is False in this case, the search key must match exactly, else it will return a N/A value to the return fields.
 
 ## Data Used
 
@@ -56,12 +56,4 @@ The final part of the VLOOKUP function is a boolean value: 'False' determines wh
 [extendoffice.com](https://www.extendoffice.com/documents/excel/2443-excel-vlookup-exact-approximate-match.html)
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
