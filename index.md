@@ -61,9 +61,9 @@ In this example, my VLOOKUP functions are set to 'True' instead of 'False'. My '
 
 ## References
 #### VLOOKUP Function Basics:
-[support.microsoft.com](https://support.microsoft.com/en-us/office/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1)
+["VLOOKUP Function" Retrieved from: support.microsoft.com on (1/20/22)](https://support.microsoft.com/en-us/office/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1)
 #### VLOOKUP Approximate versus Exact Values:
-[extendoffice.com](https://www.extendoffice.com/documents/excel/2443-excel-vlookup-exact-approximate-match.html)
+["How To Use Vlookup Exact And Approximate Match In Excel?" Retrieved from: extendoffice.com on (1/20/22)](https://www.extendoffice.com/documents/excel/2443-excel-vlookup-exact-approximate-match.html)
 
 
 
