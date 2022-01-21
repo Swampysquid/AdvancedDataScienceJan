@@ -1,12 +1,12 @@
 
-# **Excel Explainer: VLOOKUP()**
+# **Excel Explainer: VLOOKUP**
 **By: Eythan Jenkins**
 
-## What is VLOOKUP()
+## What is VLOOKUP
 
-## Why to use VLOOKUP()
+## Why to use VLOOKUP
 
-## How to Use VLOOKUP()
+## How to Use VLOOKUP
 
 ## Data Used
 
