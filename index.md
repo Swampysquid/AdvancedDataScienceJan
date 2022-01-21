@@ -29,7 +29,7 @@ This first value refers to what you are searching for / 'the key.' This value ca
 
 ![Image](VLOOKUPFunction3.JPG)
 
-This second zone is the scope of the VLOOKUP function. This is where the VLOOKUP function is going to look for the key and the corresponding values. In this example, the keys and their corresponding values exist from A2:C14, so I enter that into the function for the range.
+This second zone is the scope of the VLOOKUP function. This is where the VLOOKUP function is going to look for the key and the corresponding values. In this example, the keys and their corresponding values exist from A2:C14, so I enter that into the function for the range. The VLOOKUP function looks for the key in the first column of the range, so the function will be searching through the A column to find the matching value.
 
 ![Image](VLOOKUPpage1_3.jpg)
 
@@ -37,7 +37,7 @@ This second zone is the scope of the VLOOKUP function. This is where the VLOOKUP
 
 ![Image](VLOOKUPFunction4.JPG)
 
-The third part of the VLOOKUP function refers to which column of the range should be returned to the function as the found value. So if I want the value from the B column, I enter 2, since that is the second column within the range of my function.
+The third part of the VLOOKUP function refers to which column of the range should be returned to the function as the found value. So if I want the value from the B column, I enter 2, since that is the second column within the range of my function. By doing this, it returns to me the proper letter grade. For the numeric value, I would change 2 to 3, since the numeric values are stored in the third column of the range.
 
 ![Image](VLOOKUPpage1_4.jpg)
 
@@ -50,6 +50,8 @@ The final part of the VLOOKUP function is a boolean value: 'False' determines wh
 A time when it may be helpful to set it to true is if you have a dataset with multiple thresholds. Instead of needing a value for every possible dataset, you can use the approximate value and VLOOKUP will be able to return a value despite it not being an exact match. Another example demonstrates the usefulness of this variable:
 
 ![Image](VLOOKUPpage2.JPG)
+
+In this example, my VLOOKUP functions are set to 'True' instead of 'False'. My 'key' value of 3999, is not in the dataset that VLOOKUP is looking through. Despite this, it is still able to return values to the function. These values are derived from row 11, which stored a value of 3000 in its first column. This is because 3000 is the next largest value, that is less than the specific lookup value. So even though 4000 is closer to 3999 than 3000 is, Excel will use the values in the row containing 3000.
 
 ## Data Used
 
