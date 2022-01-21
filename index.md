@@ -11,6 +11,11 @@
 ## Data Used
 
 ## References
+VLOOKUP Function Basics:
+[support.microsoft.com](https://support.microsoft.com/en-us/office/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1)
+VLOOKUP Approximate versus Exact Values:
+[extendoffice.com](https://www.extendoffice.com/documents/excel/2443-excel-vlookup-exact-approximate-match.html)
+
 
 - Bulleted
 - List
@@ -21,14 +26,3 @@
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Swampysquid/AdvancedDataScienceJan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
