@@ -23,11 +23,15 @@ To explain how to use the VLOOKUP function, I am going to split it into 4 parts:
 
 This first value refers to what you are searching for / 'the key.' This value can be hardcoded in (I could have put 'Economics' in place of 'E3'). However, this makes it a little less flexible, since you will always have to go back into the function to make a change. Instead, by using a cell, I can just go into that cell and change that value.
 
+![Image](VLOOKUPpage1_2.JPG)
+
 ### Range to Search
 
 ![Image](VLOOKUPFunction3.JPG)
 
 This second zone is the scope of the VLOOKUP function. This is where the VLOOKUP function is going to look for the key and the corresponding values.
+
+![Image](VLOOKUPpage1_3.JPG)
 
 ### Which Column to Return From
 
@@ -35,11 +39,13 @@ This second zone is the scope of the VLOOKUP function. This is where the VLOOKUP
 
 The third part of the VLOOKUP function refers to which column of the range should be returned to the function as the found value.
 
+![Image](VLOOKUPpage1_4.JPG)
+
 ### Approximate or Exact Key Match
 
 ![Image](VLOOKUPFunction5.JPG)
 
-The final part of the VLOOKUP function is a boolean value, which determines whether the key needs to perfectly match, or if there can be an 'approximate' match. By 'approximate,' VLOOKUP "returns the next largest value that is less than your specific lookup value." (extendoffice.com) Because of how it is defined, it requires the dataset to either be sorted alphabetically or numerically to correctly function. In the next section, the step-by-step example, you will be able to see why it can be effective to use an approximate match over an exact match.
+The final part of the VLOOKUP function is a boolean value: 'False' determines whether the key needs to perfectly match, and 'True' permits there to be an 'approximate' match. By 'approximate,' VLOOKUP "returns the next largest value that is less than your specific lookup value." (extendoffice.com) Because of how it is defined, it requires the dataset to either be sorted alphabetically or numerically to correctly function. In the next section, the step-by-step example, you will be able to see why it can be effective to use an approximate match over an exact match.
 
 ## Data Used
 
