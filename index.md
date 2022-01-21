@@ -7,7 +7,7 @@ Excel's VLOOKUP tool is a search function for "when you need to find things in a
 
 ## Why to use VLOOKUP
 A search function like VLOOKUP makes it easy to find values fast within an Excel sheet. Instead of having to maually navigate the sheet for your data of interest, you can simply search up the term you are looking for, and the value will be returned to you.
-![Image](VLOOKUPpage2.JPG)
+![Image](VLOOKUPpage1.JPG)
 ## How to Use VLOOKUP
 
 ## Data Used
