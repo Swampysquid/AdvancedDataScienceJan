@@ -5,7 +5,7 @@
 ## What is VLOOKUP
 
 ## Why to use VLOOKUP
-
+![Image](VLOOKUPpage2.JPG)
 ## How to Use VLOOKUP
 
 ## Data Used
