@@ -53,6 +53,8 @@ A time when it may be helpful to set it to true is if you have a dataset with mu
 
 In this example, my VLOOKUP functions are set to 'True' instead of 'False'. My 'key' value of 3999, is not in the dataset that VLOOKUP is looking through. Despite this, it is still able to return values to the function. These values are derived from row 11, which stored a value of 3000 in its first column. This is because 3000 is the next largest value, that is less than the specific lookup value. So even though 4000 is closer to 3999 than 3000 is, Excel will use the values in the row containing 3000.
 
+![Image](VLOOKUPpage2_2.JPG)
+
 ## Data Used
 
 ## References
