@@ -12,15 +12,25 @@ In the above example, the user is prompted to put a 'Major' into the blue cell E
 
 ## How to Use VLOOKUP
 A sample VLOOKUP function will likely look something like this:
+
 ![Image](VLOOKUPFunction1.JPG)
+
 To explain how to use the VLOOKUP function, I am going to split it into 4 parts:
-#### What You are Looking For/ Key
+
+### What You are Looking For/ Key
+
 ![Image](VLOOKUPFunction2.JPG)
-#### Range to Search
+
+### Range to Search
+
 ![Image](VLOOKUPFunction3.JPG)
-#### Which Column to Return From
+
+### Which Column to Return From
+
 ![Image](VLOOKUPFunction4.JPG)
-#### Approximate or Exact Key Match
+
+### Approximate or Exact Key Match
+
 ![Image](VLOOKUPFunction5.JPG)
 
 ## Data Used
